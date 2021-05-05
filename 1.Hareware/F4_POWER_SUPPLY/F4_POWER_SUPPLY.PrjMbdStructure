@@ -1,0 +1,2 @@
+Record=DiagramHierarchy|SourceDocument=F4_POWER_SUPPLY.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\MAIN_BORAD\MAIN_BORAD.PrjPcb
+Record=SubProject|SourceDocument=F4_POWER_SUPPLY.MbsDoc|ProjectPath=..\MAIN_BORAD\MAIN_BORAD.PrjPcb

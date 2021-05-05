@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"name": "TFT",
+			"path": "..\\..\\..\\..\\Leasuring\\In_Work\\TFT\\TFT"
+		},
+		{
+			"name": "ESP32",
+			"path": "c:\\Users\\zhang\\OneDrive\\文档\\PlatformIO\\Projects\\ESP32"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"tft.h": "c",
+			"spi.h": "c",
+			"font.h": "c",
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"cstdio": "cpp",
+			"cwchar": "cpp",
+			"vector": "cpp",
+			"functional": "cpp",
+			"random": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"new": "cpp",
+			"type_traits": "cpp",
+			"tuple": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp",
+			"string": "cpp"
+		}
+	}
+}
